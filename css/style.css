@@ -1,0 +1,101 @@
+/*-------------------------------------
+            #Default Css#
+---------------------------------------*/
+body {
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 100%;
+}
+/* -----------------------------
+        #Carousel#
+-------------------------------*/
+.carousel-bg {
+  background-color: #fceae8;
+  padding: 15px 30px;
+  height: 100%;
+}
+.carousel-item p {
+  color: #3a3c3f;
+}
+.carousel-item h2 {
+  color: #ff2077;
+  font-weight: 500;
+  font-size: 40px;
+}
+.carousel-item button {
+  background-image: linear-gradient(#ff4d94, #ff1e76);
+}
+.carousel-top {
+  margin-top: 5%;
+  margin-bottom: 3%;
+}
+/*------------------------------
+        #Similar Watches Bag#
+-------------------------------*/
+.watches {
+  margin: 80px 0;
+}
+#bag-bg {
+  background-color: #da70d6;
+}
+.similar-inner-item-image img {
+  width: 100px;
+}
+#bg-watch {
+  background-color: orange;
+}
+.similar-inner-item-content h2 {
+  font-size: 2.6rem;
+}
+#shoes-bg {
+  background-color: blue;
+}
+/*------------------------------------
+        #shoes-item#
+-------------------------------------*/
+.shoes-item button {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
+.shoes-item {
+  margin-bottom: 80px;
+}
+/*------------------------------------
+            #backPack Item#
+-------------------------------------*/
+
+.card-height {
+  height: 650px;
+}
+#first-btn {
+  margin-top: 50px;
+}
+#second-btn {
+  margin-top: 80px;
+}
+#third-btn {
+  margin-top: 30px;
+}
+/*---------------------------------
+          #Stay-Form#
+----------------------------------*/
+.stay-form-content {
+  padding: 70px 0;
+}
+.stay-form-bg {
+  background-color: #fceae8;
+  border-radius: 10px;
+}
+.stay-form-content button {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  margin-top: 10px;
+}
