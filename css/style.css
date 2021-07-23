@@ -11,6 +11,9 @@ img {
 /* -----------------------------
         #Carousel#
 -------------------------------*/
+#home {
+  margin-top: 10%;
+}
 .carousel-bg {
   background-color: #fceae8;
   padding: 15px 30px;
@@ -98,4 +101,7 @@ img {
   border-radius: 8px;
   padding: 9px 25px;
   margin-top: 10px;
+}
+.form-control {
+  width: 25%;
 }
