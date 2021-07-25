@@ -85,12 +85,23 @@
   .form-control {
     width: 55%;
   }
+  #home {
+    margin-top: 20%;
+    height: 790px;
+  }
+  .down-content {
+    margin-bottom: 15px;
+  }
 }
-@media (max-width: 424px) {
+@media (max-width: 426px) {
   #home {
     margin-top: 25%;
   }
   #subscribe {
     padding-top: 0 !important;
+  }
+  #home {
+    margin-top: 20%;
+    height: 690px;
   }
 }
