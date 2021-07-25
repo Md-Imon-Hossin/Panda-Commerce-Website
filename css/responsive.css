@@ -41,6 +41,14 @@
   .form-control {
     width: 40%;
   }
+  #bag-bg {
+    height: 90%;
+  }
+  .similar-inner-item-image #sizing {
+    width: 70%;
+    position: relative;
+    left: 28%;
+  }
 }
 @media (max-width: 576px) {
   .carousel-top {
