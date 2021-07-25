@@ -25,6 +25,14 @@
   .form-control {
     width: 30%;
   }
+  #bag-bg {
+    height: 90%;
+  }
+  .similar-inner-item-image #sizing {
+    width: 70%;
+    position: relative;
+    left: 28%;
+  }
 }
 @media (max-width: 768px) {
   #second-btn {
