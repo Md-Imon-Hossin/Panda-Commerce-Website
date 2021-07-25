@@ -14,10 +14,10 @@
     height: 35em;
   }
   #first-btn {
-    margin-top: 14%;
+    margin-top: 30%;
   }
   #second-btn {
-    margin-top: 25%;
+    margin-top: 58%;
   }
   #third-btn {
     margin-top: 6%;
@@ -56,6 +56,19 @@
     width: 70%;
     position: relative;
     left: 28%;
+  }
+  #second-btn {
+    z-index: 1;
+    position: relative;
+    top: -25%;
+  }
+  #first-btn {
+    z-index: 1;
+    position: relative;
+    top: -12%;
+  }
+  .card-height {
+    height: 45em;
   }
 }
 @media (max-width: 576px) {
