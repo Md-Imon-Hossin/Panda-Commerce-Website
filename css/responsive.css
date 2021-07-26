@@ -1,120 +1,54 @@
-@media (max-width: 1200px) {
-  #first-btn {
-    margin-top: 30%;
-  }
-  #second-btn {
-    margin-top: 39%;
-  }
+@media (max-width: 1400px) {
   #third-btn {
-    margin-top: 16%;
+    margin-top: 0;
+  }
+}
+@media (max-width: 1200px) {
+  #third-btn {
+    margin-top: 11%;
   }
 }
 @media (max-width: 992px) {
-  .card-height {
-    height: 35em;
-  }
-  #first-btn {
-    margin-top: 30%;
-  }
-  #second-btn {
-    margin-top: 58%;
-  }
-  #third-btn {
-    margin-top: 6%;
-  }
-  .form-control {
-    width: 30%;
-  }
   #bag-bg {
-    height: 90%;
+    height: 100%;
   }
-  .similar-inner-item-image #sizing {
-    width: 70%;
-    position: relative;
-    left: 28%;
+  .similar-inner-item-image {
+    width: 50px;
+  }
+  .card-body p {
+    font-size: 0.8rem;
+  }
+  .card-height {
+    height: 34rem;
   }
 }
 @media (max-width: 768px) {
-  #second-btn {
-    position: relative;
-    top: 12%;
-  }
-  #first-btn {
-    position: relative;
-    top: 6%;
-  }
-  #home {
-    margin-top: 15%;
-  }
-  .form-control {
-    width: 40%;
-  }
-  #bag-bg {
-    height: 90%;
-  }
-  .similar-inner-item-image #sizing {
-    width: 70%;
-    position: relative;
-    left: 28%;
-  }
-  #second-btn {
-    z-index: 1;
-    position: relative;
-    top: -25%;
-  }
-  #first-btn {
-    z-index: 1;
-    position: relative;
-    top: -12%;
-  }
   .card-height {
-    height: 45em;
+    height: 100%;
   }
 }
 @media (max-width: 576px) {
-  .carousel-top {
-    margin-top: 13%;
-  }
-  .shoe-card {
-    height: 100%;
-  }
-  .card-height {
-    height: 100%;
-  }
-  #first-btn {
-    position: relative;
-    top: 0;
-  }
-  #second-btn {
-    position: relative;
-    top: 0;
-  }
   #home {
-    margin-top: 20%;
-  }
-  .card-body {
-    margin-bottom: 0;
-  }
-  .form-control {
-    width: 55%;
-  }
-  #home {
-    margin-top: 20%;
-    height: 790px;
-  }
-  .down-content {
-    margin-bottom: 15px;
+    margin-top: 15vh;
   }
 }
 @media (max-width: 426px) {
   #home {
-    margin-top: 25%;
+    height: 95vh;
   }
-  #subscribe {
-    padding-top: 0 !important;
+  .card-height {
+    min-height: 42rem;
   }
-  #home {
-    margin-top: 20%;
-    height: 690px;
+  #first-btn {
+    position: relative;
+    top: 4vh;
+  }
+  #third-btn {
+    position: relative;
+    top: 4vh;
+  }
+  #second-btn {
+    position: relative;
+    top: 4vh;
   }
 }

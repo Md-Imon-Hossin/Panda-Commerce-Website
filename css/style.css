@@ -74,17 +74,18 @@ img {
 -------------------------------------*/
 
 .card-height {
-  height: 650px;
+  height: 90vh;
 }
 #first-btn {
-  margin-top: 50px;
+  margin-top: 3rem;
 }
 #second-btn {
-  margin-top: 80px;
+  margin-top: 5rem;
 }
 #third-btn {
-  margin-top: 30px;
+  margin-top: 2rem;
 }
+
 /*---------------------------------
           #Stay-Form#
 ----------------------------------*/
